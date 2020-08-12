@@ -6,5 +6,10 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 415072AB
-/// @DnDApplyTo : eb305f6f-c0e6-4142-8158-7ccb0365096b
-with(oEnemy) instance_destroy();
+/// @DnDApplyTo : other
+with(other) instance_destroy();
+
+/// @DnDAction : YoYo Games.Rooms.Restart_Room
+/// @DnDVersion : 1
+/// @DnDHash : 3739F597
+room_restart();

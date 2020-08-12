@@ -40,3 +40,10 @@ else
 	/// @DnDArgument : "type" "2"
 	vspeed = 1;
 }
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 73E3BF8B
+/// @DnDArgument : "steps" "60"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 60);
