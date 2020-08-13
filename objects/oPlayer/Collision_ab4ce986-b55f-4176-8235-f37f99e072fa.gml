@@ -9,7 +9,16 @@ instance_destroy();
 /// @DnDApplyTo : other
 with(other) instance_destroy();
 
-/// @DnDAction : YoYo Games.Rooms.Restart_Room
+/// @DnDAction : YoYo Games.Common.Apply_To
 /// @DnDVersion : 1
-/// @DnDHash : 3739F597
-room_restart();
+/// @DnDHash : 0BDB98B1
+/// @DnDApplyTo : c091d658-24e2-406c-855f-e612ffc90cb4
+with(oGame) {
+	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+	/// @DnDVersion : 1
+	/// @DnDHash : 72A6038C
+	/// @DnDParent : 0BDB98B1
+	/// @DnDArgument : "steps" "60"
+	/// @DnDArgument : "alarm" "2"
+	alarm_set(2, 60);
+}
