@@ -130,7 +130,7 @@
             "Key": "625836cd-41ec-4fbd-b28a-f46869f3a246",
             "Value": {
                 "id": "7d899979-b18f-4d67-b99c-bd190d08562e",
-                "resourcePath": "sprites\\sBackgroundtest\\sBackgroundtest.yy",
+                "resourcePath": "sprites\\sStartBackground\\sStartBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "a3c329cf-485a-4f75-b2a1-97c28377014d",
+            "Value": {
+                "id": "7354f0fe-bb8b-4750-a933-d83b1b7a9dd0",
+                "resourcePath": "sprites\\sGameoverBackground\\sGameoverBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b461b3f6-57c7-4ecb-8867-b5b41d95694b",
             "Value": {
                 "id": "ad5906c5-2e59-4f70-beba-7629fa53443a",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "59a31615-0a8f-4268-8d38-4b6fcdd256d0",
                 "resourcePath": "fonts\\Text\\Text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "dbe2a0dc-7af8-4606-873c-1e9a8e501684",
+            "Value": {
+                "id": "360e289b-317f-4865-8e37-e44726f45e0c",
+                "resourcePath": "fonts\\Text2\\Text2.yy",
                 "resourceType": "GMFont"
             }
         },
