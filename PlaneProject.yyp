@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "14add297-75c1-46b6-9d73-2309f2571689",
+            "Value": {
+                "id": "d166c7b6-ede3-4f4a-a887-36b96fac94e9",
+                "resourcePath": "sounds\\Shoot_Sound_Plane\\Shoot_Sound_Plane.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "19e96a6f-bf41-4081-aaed-18d5317b8cff",
             "Value": {
                 "id": "10aef9dc-faf6-443b-811e-cd1c6f637a20",
@@ -92,6 +100,22 @@
                 "id": "d6f984dc-e11b-44ee-b2a4-77cf3920a82f",
                 "resourcePath": "views\\2b67f287-fb18-4eed-84d3-3ead1f1a3031.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "37b87191-2382-4097-809c-7012486fb259",
+            "Value": {
+                "id": "1499f093-b7a2-4e8c-a60f-102bf839c791",
+                "resourcePath": "sounds\\Death_Sound_Plne\\Death_Sound_Plne.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3972f96d-ba71-4650-bfab-203e385ff781",
+            "Value": {
+                "id": "6961e6e3-00f6-4e74-8f98-fc22ebcdf534",
+                "resourcePath": "sounds\\Shot_Sound\\Shot_Sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "80c31f14-2d99-4486-adb7-7226a7fa5a2a",
+            "Value": {
+                "id": "bed040ff-6866-4bb1-af98-8895f20d658e",
+                "resourcePath": "sounds\\Death_Sound_Plane\\Death_Sound_Plane.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "856182a0-3676-4026-adc5-1142bcc2043d",
             "Value": {
                 "id": "db9bb23b-4b6a-4f44-b6a6-aab311a00352",
@@ -212,6 +244,14 @@
                 "id": "33e85b35-121e-43e3-9b5a-968dc50192ef",
                 "resourcePath": "sprites\\sExplosion\\sExplosion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a11f3637-6429-48c0-854c-d6938d597bd6",
+            "Value": {
+                "id": "e434b25c-13d8-4402-b859-3a99e48840a1",
+                "resourcePath": "sounds\\Lose_Theme_Plane\\Lose_Theme_Plane.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -308,6 +348,22 @@
                 "id": "f8af3394-37d9-4b9f-b807-b5a42aab1648",
                 "resourcePath": "views\\e21ac225-83a8-4248-8885-487fe88390df.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5ea64de-43da-461b-b8a3-7930fcb2f81e",
+            "Value": {
+                "id": "11cc2a51-0732-4edd-aa5b-e58907b6498e",
+                "resourcePath": "sounds\\Main_Song_Plane\\Main_Song_Plane.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e7a194e2-2ecb-48a8-bc9d-a8e07706933f",
+            "Value": {
+                "id": "266dd095-ff04-4b4f-a317-cbead0e33d1c",
+                "resourcePath": "sounds\\Title_Song_Plane\\Title_Song_Plane.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -31,4 +31,12 @@ with(oGame) {
 	/// @DnDArgument : "score_relative" "1"
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 	__dnd_score += real(10);
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 7C087A1A
+	/// @DnDParent : 3ACDE931
+	/// @DnDArgument : "soundid" "Shot_Sound"
+	/// @DnDSaveInfo : "soundid" "3972f96d-ba71-4650-bfab-203e385ff781"
+	audio_play_sound(Shot_Sound, 0, 0);
 }

@@ -20,3 +20,13 @@ if(room == rGame)
 		room_goto_next();
 	}
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 74437B2F
+/// @DnDArgument : "var" "room"
+/// @DnDArgument : "value" "rGameover"
+if(room == rGameover)
+{
+
+}
